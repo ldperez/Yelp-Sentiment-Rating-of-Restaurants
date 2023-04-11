@@ -4,23 +4,31 @@
     <title>Yelp Reviews Sentiment Analysis</title>
 
     <script type="text/javascript"
-	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+        src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
     <script type="text/javascript"></script>
+
+    <style>
+        body {
+            background-color: #FCA5A5; /* set background color to pastel red */
+        }
+        #vizContainer {
+            margin: 0 auto; /* center the Tableau dashboard horizontally */
+        }
+    </style>
 
 </head>
 
 <body>
 
-  <h1>Yelp Reviews Sentiment Analysis</h1>
+    <h1>Yelp Reviews Sentiment Analysis</h1>
 
-    <button id = "exportPDF">Generate PDF</button>
-    <button id = "exportImage">Generate Image</button>
-
+    <button id="exportPDF">Generate PDF</button>
+    <button id="exportImage">Generate Image</button>
 
     <div id="vizContainer"></div>
 
     <script src="./app.js"></script>
 
 </body>
-
 </html>
+
