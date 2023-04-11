@@ -9,7 +9,7 @@ Partner(s)/Contributor(s)
 
 https://github.com/aminfesharaki97
 
-Tableau Dashboard: https://ldperez.github.io/Yelp-Sentiment-Rating-of-Restaurants/
+**Tableau Dashboard:** https://ldperez.github.io/Yelp-Sentiment-Rating-of-Restaurants/
 
 
 Methods Used
