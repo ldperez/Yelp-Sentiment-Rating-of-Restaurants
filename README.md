@@ -40,5 +40,7 @@ License
 Yelp Open Data license
 
 Acknowledgments
+
+We would like to thank Professor Graindorge for his valuable feedback on this project. We would also like to acknowledge the support provided by the University of San Diego Applied Data Science program.
 *****
 
